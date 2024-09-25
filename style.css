@@ -1,0 +1,36 @@
+@media (max-width: 425px) {
+    .hide-425 {
+      display: none;
+      background-color:blueviolet;
+    }
+  }
+.btn-kanan{
+ background-color: #D8D6C1;
+}
+.btn-border{
+ border-color: #D8D6C1;
+}
+.btn-luffy {
+    background-color: #E29A00;
+    padding: 5px 20px;
+    cursor: pointer;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.btn-zoro{
+  background-color: #7EB782;
+}
+.btn-nami{
+  background-color: #FF5573;
+}
+.btn-sanji{
+  background-color: #3279AF;
+}
+.btn-5card{
+ background-color: #D8D6C1;
+}
+.border-color{
+  border-color: #D8D6C1;
+}
